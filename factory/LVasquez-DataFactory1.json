@@ -1,0 +1,9 @@
+{
+	"name": "LVasquez-DataFactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f61fc5a6-27c4-4ed3-b9a8-bfbfc01e4694",
+		"tenantId": "3315b625-5e5e-474f-a682-ce2b61e4b005"
+	}
+}
